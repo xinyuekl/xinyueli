@@ -1,0 +1,127 @@
+/* Ref:  http://www.w3schools.com/css/css_syntax.asp */
+body, html {
+		height: 100%;
+		width: 100%;
+}
+
+body { /* General style rules for the body section */
+	background-color: black;
+	color:white;
+	text-align: center;
+}
+
+h1 { /* Matches elements with h1 tag */
+	color: white;
+	text-decoration: none;
+}
+
+	a:link {
+		color: white;
+	}
+	a:visited {
+      color: coral;
+    }
+	a:hover {
+			color: lightblue;
+	}
+
+#Statement { /* Matches element with id=SimpleDiv */
+	background-color: none;
+
+	color: none;
+
+	margin: 5%;
+	padding: 6px;
+}
+
+#Alex{
+	color: white;
+	margin: 5%;
+	padding: 6px;
+	width: 20%;
+	float: left;
+}
+
+#Annie{
+	color: white;
+	margin: 5%;
+	padding: 6px;
+	width: 20%;
+	float: right;
+}
+
+#Xin{
+	color: white;
+	margin: 5%;
+	padding: 6px;
+	width: 25%;
+	float: right;
+}
+
+#alexpage1{
+	float:left;
+	margin: 5%;
+	width: 35%;
+}
+
+#alexpage2{
+	float:right;
+	margin: 5%;
+	width: 35%;
+}
+
+#alexpage3{
+	margin: 1%;
+	width: 100%;
+	clear: both;
+	text-align: center;
+	color: black
+}
+
+#alexpage4{
+	float:left;
+	margin: 5%;
+	width: 40%;
+}
+
+#alexpage5{
+	float:right;
+	margin: 5%;
+	width: 20%;
+}
+
+#alexpage6{
+	margin: 1%;
+	width: 100%;
+	clear: both;
+	text-align: center;
+	color: black
+}
+
+#alexpage7{
+	float:left;
+	margin: 5%;
+	width: 35%;
+}
+
+#alexpage8{
+	float:right;
+	margin: 5%;
+	width: 20%;
+}
+
+#alexpage9{
+	margin: 1%;
+	width: 100%;
+	clear: both;
+	text-align: center;
+	color: black
+}
+
+/* #div5{
+	color: black;
+	background-color: #d307ff;
+	margin: 5%;
+	padding: 6px;
+	clear: both;
+} */
